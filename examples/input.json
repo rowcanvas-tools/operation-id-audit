@@ -1,0 +1,17 @@
+{
+  "paths": {
+    "/a": {
+      "get": {
+        "operationId": "fetch"
+      }
+    },
+    "/b": {
+      "get": {
+        "operationId": "fetch"
+      }
+    },
+    "/c": {
+      "post": {}
+    }
+  }
+}
